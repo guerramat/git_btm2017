@@ -1,7 +1,7 @@
 import file_manager as fM
 
 def say_hi():
-
+ 	print ("Helooooooo")
 def new_client():
     pass
     
